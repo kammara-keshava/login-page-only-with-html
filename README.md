@@ -1,9 +1,17 @@
 This project is a basic Login Page built using only HTML. It serves as a simple template for authentication interfaces, providing a structured layout for user login.
 
 Features
+
+
 ✅ Basic login form structure
+
+
 ✅ Username and password input fields
+
+
 ✅ Submit and reset buttons
+
+
 ✅ Responsive design with semantic HTML
 
 
